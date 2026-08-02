@@ -50,4 +50,6 @@ result = client.execute_workflow(
   task_queue: OrderProcess::TASK_QUEUE_NAME,
 )
 
+puts result
+
 puts result['notification']
