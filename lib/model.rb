@@ -1,0 +1,5 @@
+require_relative 'model/address'
+require_relative 'model/item'
+require_relative 'model/order'
+require_relative 'model/payment_details'
+require_relative 'model/person'

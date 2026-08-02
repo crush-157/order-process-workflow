@@ -1,0 +1,5 @@
+require_relative 'activities/process_payment'
+require_relative 'activities/check_inventory'
+require_relative 'activities/ship_goods'
+require_relative 'activities/notify_customer'
+require_relative 'activities/refund_payment'
